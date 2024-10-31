@@ -1,0 +1,39 @@
+.title {
+  color: ghostwhite;
+}
+.container-Navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: orange;
+  align-items: center;
+  height: 50px;
+  padding: 0 50px;
+}
+.container-Navbar ul {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+li {
+  list-style: none;
+}
+
+.container-Navbar-Dark {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: ghostwhite;
+  align-items: center;
+  height: 50px;
+  padding: 0 50px;
+}
+
+.container-Navbar-Dark ul {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+li-dark {
+  list-style: none;
+}
