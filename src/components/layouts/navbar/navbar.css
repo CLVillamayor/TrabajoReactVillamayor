@@ -37,3 +37,16 @@ li {
 li-dark {
   list-style: none;
 }
+
+a {
+  text-decoration: none;
+}
+
+a {
+  color: #f7f3f2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff4d01;
+}

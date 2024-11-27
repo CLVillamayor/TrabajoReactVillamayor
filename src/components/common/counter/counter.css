@@ -1,0 +1,34 @@
+.counter-container {
+  margin-left: 50px;
+  text-align: left;
+}
+
+.counter-buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: left;
+  margin-bottom: 10px;
+}
+
+.counter-button {
+  background-color: orange;
+  color: white;
+}
+
+.counter-button:hover {
+  background-color: #ff9800;
+}
+
+.add-to-cart {
+  margin-top: 20px;
+}
+
+.add-to-cart-button {
+  border-color: orange;
+  color: orange;
+}
+
+.add-to-cart-button:hover {
+  background-color: orange;
+  color: white;
+}
